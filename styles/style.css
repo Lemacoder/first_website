@@ -3,6 +3,8 @@
 @import url(digits_part.css);
 @import url(feynman_part.css);
 @import url(kaufman_part.css);
+@import url(footers_part.css);
+
 .bord {
   border: 3px solid red;
 }
