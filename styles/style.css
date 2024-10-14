@@ -5,12 +5,6 @@
 @import url(kaufman_part.css);
 @import url(footers_part.css);
 
-.bord {
-  border: 3px solid red;
-}
-.borders {
-  border: 3px solid grey;
-}
 body {
   margin: 0;
   padding: 0;
